@@ -4,6 +4,6 @@
 
 ## Implementation
 
-- [Node Js](./node/readme.md)
+- [Node Js](./node/node.md)
 - CSharp
 - Java
